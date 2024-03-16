@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: max-content;
+  background-color: #03426d;
+}
+.answer_section {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  background-color: aliceblue;
+  height: 100%;
+  border: none;
+}
+.question_section {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  height: 100%;
+  padding: 3rem;
+}

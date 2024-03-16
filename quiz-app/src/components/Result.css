@@ -1,0 +1,29 @@
+.result_container {
+  margin-top: 5rem;
+  margin-inline: auto;
+  background-color: #03426d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+}
+
+.header {
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.reset {
+  background-color: white;
+  width: 50%;
+  border-radius: 1.5rem;
+  color: #03426d;
+  height: 2rem;
+  border: none;
+  margin-bottom: 2rem;
+  cursor: pointer;
+}
+.questions {
+  font-size: large;
+}

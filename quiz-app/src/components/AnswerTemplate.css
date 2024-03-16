@@ -1,0 +1,39 @@
+.answer-container {
+  background-color: aliceblue;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.option {
+  border: none;
+  border-radius: 0.5rem;
+  background-color: white;
+  color: gray;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.option_text {
+  padding-inline: 1rem;
+  font-weight: bolder;
+}
+.answer-text {
+  color: grey;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.next {
+  background-color: #03426d;
+  width: 100%;
+  border-radius: 1.5rem;
+  color: white;
+  height: 3rem;
+}
+
+.selectedOption {
+  background-color: lightcoral;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
